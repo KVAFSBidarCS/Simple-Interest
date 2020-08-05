@@ -1,7 +1,7 @@
-# Simple-Intrest 
+# Simple-Interest 
 In this assignment we will learn about how to define and call functions
 Tasks to be carried out for successful submission of assignment
-1. open simple_intrest.py file
+1. open simple_interest.py file
 2. complete the definition of simple_intrest.py file. i.e. replace the pass statements with relevant code for calculation of simple intrest and return the calculated simple intrest.
 3. In Main: input the values of p, r and t
             call the simpleInt function and pass the input values.
